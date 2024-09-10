@@ -1,29 +1,6 @@
-# ./
+Este app se llama POKEAPI
+Creado con Vue JS en conjunto con AXIOS.
 
-This template should help get you started developing with Vue 3 in Vite.
+Montado con bun.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-bun install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-bun dev
-```
-
-### Compile and Minify for Production
-
-```sh
-bun build
-```
+Aplicación que consiste en adivinar los nombres de cada pokemon.
